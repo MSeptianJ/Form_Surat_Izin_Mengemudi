@@ -8,7 +8,7 @@ Untuk menjalankan progam ini, dibutuhkan beberapa hal terlebih dahulu, yaitu :
   3. Library mpdf
 
 ## Installation
-1. Donwload program ini dan extract ke sebuah folder
+1. Download program ini dan extract ke sebuah folder
 2. Tentu saja anda sudah memiliki hal-hal pada requirement
 3. Buka Folder dengan text editor
 4. lalu buka terminal pada direktori folder tersebut
